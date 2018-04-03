@@ -1,0 +1,28 @@
+/* Train Schedule css */
+
+.jumbotron {
+  text-align: center;
+}
+.container {
+  align-content: center;
+}
+.form{
+  align-content: center;
+}
+table {
+  align-content: center;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin: 20px;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
